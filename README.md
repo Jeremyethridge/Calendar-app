@@ -5,8 +5,6 @@ This calender application is made so a user can save an event from 9 AM to 5 PM.
 
 ## Usage
 To use this application you will click the link and from there you will be able to type information between 9 AM - 5 PM. You will see grey for past time, green for future time, and current time will be red.
-## Link
-[Calender-Application](https://jeremyethridge.github.io/Calendar-app/)
 ## Screenshot
 ![Calender-App](https://github.com/Jeremyethridge/Calendar-app/assets/128623643/64b7b997-756d-4977-b9ad-f7ee210cbf21)
 
